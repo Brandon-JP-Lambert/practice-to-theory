@@ -12,8 +12,6 @@ This practice-to-theory repository offers the following features:
 4. Critical theory-based reactions: Enhance your workshop by considering potential challenges and concerns from a critical theory perspective, promoting inclusivity, diversity, and reflexivity.
 5. Compatibility with AI tools: Use this repository seamlessly with generative AI tools like ChatGPT to gain insights and ideas for your workshop or educational experience.
 
-To add the "Features" section to your README, copy the text above and insert it at the desired location within your existing README file.
-
 ## Prompt Template
 
 To use the template, simply replace the text in brackets with your specific details:
