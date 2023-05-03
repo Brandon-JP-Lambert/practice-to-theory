@@ -12,6 +12,18 @@ This practice-to-theory repository offers the following features:
 4. Critical theory-based reactions: Enhance your workshop by considering potential challenges and concerns from a critical theory perspective, promoting inclusivity, diversity, and reflexivity.
 5. Compatibility with AI tools: Use this repository seamlessly with generative AI tools like ChatGPT to gain insights and ideas for your workshop or educational experience.
 
+## Usage
+
+To use the prompt templates provided in this repository, follow these steps:
+
+1. Review the prompt template.
+2. Edit the prompt by replacing the [bracketed content] with your specific details, including an instructional plan.
+3. Use the edited prompt as input for generative AI tools like ChatGPT to generate contextually analysis.
+4. Review the generated content and make any necessary revisions to ensure accuracy and relevance to your topic.
+5. Utilize the generated content for personal, peer, or other reflection and planning activities.
+
+Please note that the content in this repository is designed to assist users in generating insights and ideas using AI tools, and is not intended to be used as code or scripts for implementation. Always review and refine the AI-generated content before using it in any professional or educational setting.
+
 ## Prompt Template
 
 To use the template, simply replace the text in brackets with your specific details:
@@ -119,11 +131,6 @@ Critical Theory-based Reactions:
 - Resistance to change: Recognize that some participants may be resistant to adopting the new product, and address any concerns or barriers they may have.
 - Reflexivity: Encourage participants to reflect on their own assumptions and biases when considering potential use cases and applications for the new product.
 ```
-
-## Usage
-To use this repository with generative AI tools like ChatGPT, simply copy the template or the sample workshop text and paste it into the AI tool's input field. The AI will then generate relevant underlying theories, concepts, assumptions, and strategies based on the provided instructional plan.
-
-Remember that this README and the content in this repository are intended to help users generate insights and ideas using AI tools, not as code or scripts for implementation.
 
 ## Disclaimer
 
